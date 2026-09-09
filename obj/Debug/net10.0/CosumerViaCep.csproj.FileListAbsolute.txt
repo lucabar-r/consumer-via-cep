@@ -12,3 +12,4 @@ C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\obj\Debug\net10
 C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\obj\Debug\net10.0\CosumerViaCep.pdb
 C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\obj\Debug\net10.0\CosumerViaCep.genruntimeconfig.cache
 C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\obj\Debug\net10.0\ref\CosumerViaCep.dll
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\obj\Debug\net10.0\CosumerViaCep.sourcelink.json
