@@ -1,0 +1,14 @@
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\bin\Debug\net10.0\CosumerViaCep.exe
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\bin\Debug\net10.0\CosumerViaCep.deps.json
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\bin\Debug\net10.0\CosumerViaCep.runtimeconfig.json
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\bin\Debug\net10.0\CosumerViaCep.dll
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\bin\Debug\net10.0\CosumerViaCep.pdb
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\obj\Debug\net10.0\CosumerViaCep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\obj\Debug\net10.0\CosumerViaCep.AssemblyInfoInputs.cache
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\obj\Debug\net10.0\CosumerViaCep.AssemblyInfo.cs
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\obj\Debug\net10.0\CosumerViaCep.csproj.CoreCompileInputs.cache
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\obj\Debug\net10.0\CosumerViaCep.dll
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\obj\Debug\net10.0\refint\CosumerViaCep.dll
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\obj\Debug\net10.0\CosumerViaCep.pdb
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\obj\Debug\net10.0\CosumerViaCep.genruntimeconfig.cache
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\CosumerViaCep\obj\Debug\net10.0\ref\CosumerViaCep.dll
